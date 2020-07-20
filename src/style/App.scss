@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.actions{
+  opacity: 0;
+}
+ tr:hover .actions {
+   opacity: 1;
+ }
+
+ tbody td a{
+   color: #011;
+
+   &:hover{
+     color: #011;
+   }
+ }
